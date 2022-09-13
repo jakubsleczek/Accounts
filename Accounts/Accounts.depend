@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1657866532 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\account.cpp
+	"Account.h"
+
+1663069591 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\account.h
+	<iostream>
+	<string>
+	"IPrintable.h"
+	"IllegalBalanceException.h"
+	"InsufficientFundsException.h"
+
+1657193947 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\iprintable.h
+	<iostream>
+
+1657866639 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\illegalbalanceexception.h
+
+1657866639 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\insufficientfundsexception.h
+
+1657195761 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\checkaccount.cpp
+	"CheckAccount.h"
+
+1657195761 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\checkaccount.h
+	"Account.h"
+	<iostream>
+	<string>
+
+1657193857 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\iprintable.cpp
+	"IPrintable.h"
+
+1663069210 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\main.cpp
+	"Account.h"
+	"SavingsAccount.h"
+	"TrustAccount.h"
+	"CheckAccount.h"
+	"Utility.h"
+	<iostream>
+	<string>
+	<memory>
+
+1657195761 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\savingsaccount.h
+	<iostream>
+	<string>
+	"Account.h"
+
+1657195048 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\trustaccount.h
+	<iostream>
+	<string>
+	"SavingsAccount.h"
+
+1657866532 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\utility.h
+	"Account.h"
+	<memory>
+
+1657196410 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\savingsaccount.cpp
+	"SavingsAccount.h"
+
+1657195048 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\trustaccount.cpp
+	"TrustAccount.h"
+
+1657866532 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\accounts\utility.cpp
+	"Utility.h"
+	<iostream>
+
